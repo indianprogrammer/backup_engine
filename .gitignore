@@ -1,2 +1,5 @@
 test.txt
 /vendor/
+.env
+.env.*
+!.env.example
